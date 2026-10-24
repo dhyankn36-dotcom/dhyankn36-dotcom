@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Dhyan K N 👋
 
-<!--
-**dhyankn36-dotcom/dhyankn36-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Software Developer
 
-Here are some ideas to get you started:
+I enjoy building practical software applications and exploring how artificial intelligence can solve real-world problems. I'm focused on strengthening my skills in machine learning, software engineering, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### FocusMate AI — Personal Cognitive Co-Pilot
+An AI-powered productivity assistant built with Python, Streamlit, and Ollama.
+
+- Breaks complex tasks into actionable steps
+- Simplifies text into easier-to-understand explanations
+- Drafts professional messages
+- Tracks task progress through interactive workflows
+- Uses a locally running language model
+
+**Technologies:** Python · Streamlit · Ollama · REST API
+
+[View Project →](https://github.com/dhyankn36-dotcom/FocusMateAI)
+
+### CodeAuditorAI — Change Impact Detective
+An AI-assisted code analysis project developed for a hackathon using IBM Bob 2.0.
+
+- Explores potential impacts of code changes
+- Aims to help developers identify dependencies and risks before modifying code
+
+**Technologies:** AI-assisted development · Code analysis
+
+[View Project →](https://github.com/LordDevdeep/CodeAuditorAI)
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Python, C++, Java, SQL
+- **AI & Machine Learning:** Machine learning fundamentals, model evaluation
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Ollama
+- **Core Concepts:** Data Structures and Algorithms, problem-solving
+
+## 🎯 Current Focus
+
+- Building practical AI-powered applications
+- Improving problem-solving and DSA skills
+- Exploring machine learning techniques
+- Developing reliable, well-documented software projects
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/dhyan-k-n-157460345/)
+
+---
+
+*Build. Learn. Improve. Repeat.*
