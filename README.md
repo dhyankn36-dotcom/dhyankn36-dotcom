@@ -1,52 +1,129 @@
-# Hi, I'm Dhyan K N 👋
+<!-- HEADER -->
+
+<div align="center">
+
+# Dhyan K N
 
 ### AI/ML Engineer | Software Developer
 
-I enjoy building practical software applications and exploring how artificial intelligence can solve real-world problems. I'm focused on strengthening my skills in machine learning, software engineering, and problem-solving.
+Building intelligent applications. Solving real-world problems.
 
-## 🚀 Featured Projects
+[![GitHub](https://img.shields.io/badge/GitHub-dhyankn36--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/dhyankn36-dotcom)
 
-### FocusMate AI — Personal Cognitive Co-Pilot
-An AI-powered productivity assistant built with Python, Streamlit, and Ollama.
-
-- Breaks complex tasks into actionable steps
-- Simplifies text into easier-to-understand explanations
-- Drafts professional messages
-- Tracks task progress through interactive workflows
-- Uses a locally running language model
-
-**Technologies:** Python · Streamlit · Ollama · REST API
-
-[View Project →](https://github.com/dhyankn36-dotcom/FocusMateAI)
-
-### CodeAuditorAI — Change Impact Detective
-An AI-assisted code analysis project developed for a hackathon using IBM Bob 2.0.
-
-- Explores potential impacts of code changes
-- Aims to help developers identify dependencies and risks before modifying code
-
-**Technologies:** AI-assisted development · Code analysis
-
-[View Project →](https://github.com/LordDevdeep/CodeAuditorAI)
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, C++, Java, SQL
-- **AI & Machine Learning:** Machine learning fundamentals, model evaluation
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Ollama
-- **Core Concepts:** Data Structures and Algorithms, problem-solving
-
-## 🎯 Current Focus
-
-- Building practical AI-powered applications
-- Improving problem-solving and DSA skills
-- Exploring machine learning techniques
-- Developing reliable, well-documented software projects
-
-## 🤝 Connect With Me
-
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/dhyan-k-n-157460345/)
+</div>
 
 ---
 
-*Build. Learn. Improve. Repeat.*
+## 👨‍💻 About Me
+
+I'm an aspiring AI/ML engineer passionate about building practical software applications and exploring the potential of artificial intelligence.
+
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Building full-stack and AI-powered applications
+- 🧠 Practicing Data Structures and Algorithms
+- 🚀 Focused on continuous learning and development
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 FocusMate AI
+
+**Personal Cognitive Co-Pilot**
+
+An AI-powered productivity assistant.
+
+- Task breakdown and planning
+- Simplified explanations
+- Message drafting
+- Interactive progress tracking
+
+**Python · Streamlit · Ollama**
+
+[View Repository →](https://github.com/dhyankn36-dotcom/FocusMateAI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 SmartCampus
+
+**Campus Complaint Management System**
+
+A full-stack grievance management platform.
+
+- Student authentication
+- Complaint and image submission
+- Automatic ticket generation
+- Admin status management
+
+**React · FastAPI · MySQL**
+
+[View Repository →](https://github.com/dhyankn36-dotcom/SmartCampus)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔍 CodeAuditorAI
+
+**Change Impact Detective**
+
+An AI-assisted code impact analysis project developed for the IBM Bob 2.0 hackathon.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhyankn36-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyankn36-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="65%" src="https://streak-stats.demolab.com?user=dhyankn36-dotcom&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhyankn36-dotcom)
+
+</div>
+
+<div align="center">
+
+*Always curious. Always building. Always learning.*
+
+</div>
