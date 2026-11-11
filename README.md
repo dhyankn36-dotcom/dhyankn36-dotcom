@@ -1,96 +1,102 @@
-<!-- PROFILE README -->
+<!--
+  Dhyan K N | GitHub Profile
+  Theme: engineering notebook / terminal-inspired
+-->
 
 <div align="center">
 
-# Dhyan K N
+# DHYAN K N
 
-### AI/ML Engineer | Software Developer
+### AI/ML ENGINEER · SOFTWARE DEVELOPER
 
-I build practical software at the intersection of **AI, data, and full-stack engineering** — turning ideas into applications with clear workflows and useful outcomes.
+**Turning messy problems into useful software.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dhyankn36--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/dhyankn36-dotcom)
+<p>
+  <a href="https://github.com/dhyankn36-dotcom">
+    <img src="https://img.shields.io/badge/OPEN_SOURCE-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20DATA%20%7C%20FULL--STACK-2563EB?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 01 / THE WAY I BUILD
 
-- Developing AI-powered and full-stack applications through hands-on projects.
-- Exploring applied machine learning, intelligent systems, and data-driven solutions.
-- Strengthening problem-solving skills through data structures and algorithms.
-- Interested in backend development, API design, and building reliable software.
+I like building things that move beyond the demo stage: applications with a clear purpose, thoughtful workflows, and working pieces across the stack.
 
-## Technical Skills
+My work sits around three connected areas:
 
-**Languages**
+- **Applied AI** — bringing language models and intelligent features into practical tools.
+- **Data engineering foundations** — exploring, validating, and making datasets more useful.
+- **Full-stack development** — connecting interfaces, APIs, databases, and real user workflows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I care about understanding how the pieces fit together, not just making them run.
 
-**Frameworks, Databases & AI Tools**
+## 02 / MY TOOLKIT
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logoColor=white)
+| Area | Tools |
+|---|---|
+| Languages | Python · Java · C++ · SQL |
+| Backend & APIs | FastAPI |
+| Frontend & apps | React · Streamlit |
+| Data & ML | Pandas · NumPy |
+| Databases | MySQL · SQLite |
+| AI tooling | Ollama · Google Gemini API |
 
-## Featured Projects
+## 03 / SELECTED BUILDS
 
-### [SmartCampus](https://github.com/dhyankn36-dotcom/SmartCampus)
-**Full-stack campus complaint management platform**
+### [01 — SmartCampus](https://github.com/dhyankn36-dotcom/SmartCampus)
+**A campus issue, from report to resolution.**
 
-A centralized platform for reporting campus issues, tracking resolution progress, and managing administrative workflows.
+A complaint-management platform designed around traceable workflows instead of scattered requests.
 
-- JWT authentication and role-based access control.
-- Complaint submission, unique ticket IDs, and department routing.
-- Status history, feedback, administrative tools, and dashboard analytics.
+- JWT authentication and role-based access.
+- Ticket creation, department routing, and status history.
+- Feedback, administration tools, and dashboard analytics.
 
-**Built with:** React · FastAPI · Python · MySQL · SQLAlchemy
+<sub>React · FastAPI · Python · MySQL · SQLAlchemy</sub>
 
-[View repository →](https://github.com/dhyankn36-dotcom/SmartCampus)
+[Explore the code →](https://github.com/dhyankn36-dotcom/SmartCampus)
 
 ---
 
-### [FocusMateAI](https://github.com/dhyankn36-dotcom/FocusMateAI)
-**AI-powered productivity assistant**
+### [02 — FocusMateAI](https://github.com/dhyankn36-dotcom/FocusMateAI)
+**Make the next step obvious.**
 
-An interactive workspace that helps break down tasks, simplify information, and draft messages.
+An AI productivity workspace that turns broad tasks into manageable actions and keeps progress in view.
 
-- Converts broad tasks into actionable, trackable steps.
-- Includes one-step guidance, progress tracking, and searchable history.
-- Supports a local Ollama model and a Google Gemini-powered variant.
+- Task breakdown and one-step guidance.
+- Text simplification and message drafting.
+- Progress tracking and searchable SQLite history.
+- Local Ollama and Gemini-powered variants.
 
-**Built with:** Python · Streamlit · Ollama · Gemini API · SQLite
+<sub>Python · Streamlit · Ollama · Gemini API · SQLite</sub>
 
-[View repository →](https://github.com/dhyankn36-dotcom/FocusMateAI)
+[Explore the code →](https://github.com/dhyankn36-dotcom/FocusMateAI)
 
 ---
 
-### [DataGuard](https://github.com/dhyankn36-dotcom/DataGuard)
-**Dataset profiling and data quality workspace**
+### [03 — DataGuard](https://github.com/dhyankn36-dotcom/DataGuard)
+**Know your dataset before you trust it.**
 
-A web application for inspecting CSV and Excel datasets, reviewing quality issues, and exporting cleaned data.
+A data-quality workspace for inspecting CSV and Excel files, spotting common issues, and preparing cleaner exports.
 
-- Profiles missing values, duplicate records, numeric statistics, and potential outliers.
-- Provides dataset previews, quality reports, and column-level exports.
-- Supports configurable cleaning while preserving the original uploaded dataset.
+- Missing-value, duplicate, numeric-statistics, and outlier profiling.
+- Dataset previews and quality reports.
+- Configurable cleaning and column-level exports.
 
-**Built with:** Python · FastAPI · Pandas · NumPy · SQLite
+<sub>Python · FastAPI · Pandas · NumPy · SQLite</sub>
 
-[View repository →](https://github.com/dhyankn36-dotcom/DataGuard)
+[Explore the code →](https://github.com/dhyankn36-dotcom/DataGuard)
 
-## GitHub Activity
+## 04 / GITHUB SNAPSHOT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhyankn36-dotcom&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyankn36-dotcom&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhyankn36-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyankn36-dotcom&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
 </div>
 
@@ -98,6 +104,8 @@ A web application for inspecting CSV and Excel datasets, reviewing quality issue
 
 <div align="center">
 
-**Always learning. Building with purpose.**
+**Build with intent. Learn by shipping. Improve every iteration.**
+
+<sub>Thanks for stopping by — explore the repositories and see what I'm working on.</sub>
 
 </div>
