@@ -94,7 +94,7 @@ A data quality workspace for inspecting CSV and Excel datasets and exporting cle
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [CodeAuditorAI](https://github.com/dhyankn36-dotcom)
+### 🔎 CodeAuditorAI
 
 An AI-assisted code impact analysis project developed for the IBM Bob 2.0 hackathon.
 
