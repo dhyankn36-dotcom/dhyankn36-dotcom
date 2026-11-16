@@ -134,6 +134,14 @@ A project developed for the IBM Bob 2.0 hackathon, exploring how AI can help dev
 
 ---
 
+## Project Documentation
+
+I also maintain practical project guides alongside the code:
+
+- [FocusMateAI — AI provider configuration](https://github.com/dhyankn36-dotcom/FocusMateAI/blob/main/docs/PROVIDER_CONFIGURATION.md)
+- [SmartCampus — complaint lifecycle](https://github.com/dhyankn36-dotcom/SmartCampus/blob/main/docs/COMPLAINT_LIFECYCLE.md)
+- [DataGuard — dataset quality review](https://github.com/dhyankn36-dotcom/DataGuard/blob/main/docs/DATA_QUALITY_GUIDE.md)
+
 ## What I Value
 
 - **Practical problem-solving** — start with the problem, then build the right solution.
